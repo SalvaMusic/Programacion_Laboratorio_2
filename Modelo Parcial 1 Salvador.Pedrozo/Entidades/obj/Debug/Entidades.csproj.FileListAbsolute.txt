@@ -1,0 +1,12 @@
+D:\VisualStudio\Salvador.Pedrozo\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Salvador.Pedrozo\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,7 @@
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\bin\Debug\Ejercicio13.exe
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\bin\Debug\Ejercicio13.pdb
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\obj\Debug\Ejercicio13.exe
+D:\Salva Laboratorio y Programacion II\Metodos Estáticos (De Clase)\Ejercicio13\obj\Debug\Ejercicio13.pdb
