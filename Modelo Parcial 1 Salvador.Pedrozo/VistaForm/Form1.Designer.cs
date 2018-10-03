@@ -41,6 +41,7 @@
             this.nudAnio = new System.Windows.Forms.NumericUpDown();
             this.cmbDivision = new System.Windows.Forms.ComboBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.dtpFechaIngreso = new System.Windows.Forms.DateTimePicker();
             this.label6 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -55,7 +56,6 @@
             this.nudAnioCurso = new System.Windows.Forms.NumericUpDown();
             this.txtNombreProfe = new System.Windows.Forms.TextBox();
             this.rbdDatos = new System.Windows.Forms.RichTextBox();
-            this.dtpFechaIngreso = new System.Windows.Forms.DateTimePicker();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudAnio)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -183,12 +183,6 @@
             // cmbDivision
             // 
             this.cmbDivision.FormattingEnabled = true;
-            this.cmbDivision.Items.AddRange(new object[] {
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"});
             this.cmbDivision.Location = new System.Drawing.Point(76, 137);
             this.cmbDivision.Name = "cmbDivision";
             this.cmbDivision.Size = new System.Drawing.Size(131, 21);
@@ -216,6 +210,13 @@
             this.groupBox3.TabIndex = 0;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Datos Curso";
+            // 
+            // dtpFechaIngreso
+            // 
+            this.dtpFechaIngreso.Location = new System.Drawing.Point(79, 163);
+            this.dtpFechaIngreso.Name = "dtpFechaIngreso";
+            this.dtpFechaIngreso.Size = new System.Drawing.Size(189, 20);
+            this.dtpFechaIngreso.TabIndex = 5;
             // 
             // label6
             // 
@@ -286,26 +287,21 @@
             this.btnMostrar.Location = new System.Drawing.Point(169, 203);
             this.btnMostrar.Name = "btnMostrar";
             this.btnMostrar.Size = new System.Drawing.Size(99, 38);
-            this.btnMostrar.TabIndex = 5;
+            this.btnMostrar.TabIndex = 7;
             this.btnMostrar.Text = "Mostrar";
             this.btnMostrar.UseVisualStyleBackColor = true;
+            this.btnMostrar.Click += new System.EventHandler(this.btnMostrar_Click);
             // 
             // txtDocumentoProfe
             // 
             this.txtDocumentoProfe.Location = new System.Drawing.Point(79, 135);
             this.txtDocumentoProfe.Name = "txtDocumentoProfe";
             this.txtDocumentoProfe.Size = new System.Drawing.Size(189, 20);
-            this.txtDocumentoProfe.TabIndex = 3;
+            this.txtDocumentoProfe.TabIndex = 4;
             // 
             // cmbDivisionCurso
             // 
             this.cmbDivisionCurso.FormattingEnabled = true;
-            this.cmbDivisionCurso.Items.AddRange(new object[] {
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"});
             this.cmbDivisionCurso.Location = new System.Drawing.Point(79, 49);
             this.cmbDivisionCurso.Name = "cmbDivisionCurso";
             this.cmbDivisionCurso.Size = new System.Drawing.Size(131, 21);
@@ -316,7 +312,7 @@
             this.txtApellidoProfe.Location = new System.Drawing.Point(79, 107);
             this.txtApellidoProfe.Name = "txtApellidoProfe";
             this.txtApellidoProfe.Size = new System.Drawing.Size(189, 20);
-            this.txtApellidoProfe.TabIndex = 2;
+            this.txtApellidoProfe.TabIndex = 3;
             // 
             // nudAnioCurso
             // 
@@ -333,7 +329,7 @@
             0});
             this.nudAnioCurso.Name = "nudAnioCurso";
             this.nudAnioCurso.Size = new System.Drawing.Size(131, 20);
-            this.nudAnioCurso.TabIndex = 1;
+            this.nudAnioCurso.TabIndex = 0;
             this.nudAnioCurso.Value = new decimal(new int[] {
             1,
             0,
@@ -345,7 +341,7 @@
             this.txtNombreProfe.Location = new System.Drawing.Point(79, 76);
             this.txtNombreProfe.Name = "txtNombreProfe";
             this.txtNombreProfe.Size = new System.Drawing.Size(189, 20);
-            this.txtNombreProfe.TabIndex = 1;
+            this.txtNombreProfe.TabIndex = 2;
             // 
             // rbdDatos
             // 
@@ -354,13 +350,6 @@
             this.rbdDatos.Size = new System.Drawing.Size(574, 137);
             this.rbdDatos.TabIndex = 1;
             this.rbdDatos.Text = "";
-            // 
-            // dtpFechaIngreso
-            // 
-            this.dtpFechaIngreso.Location = new System.Drawing.Point(79, 163);
-            this.dtpFechaIngreso.Name = "dtpFechaIngreso";
-            this.dtpFechaIngreso.Size = new System.Drawing.Size(189, 20);
-            this.dtpFechaIngreso.TabIndex = 6;
             // 
             // Form1
             // 
@@ -381,7 +370,6 @@
 
         #endregion
 
-        private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label label7;
