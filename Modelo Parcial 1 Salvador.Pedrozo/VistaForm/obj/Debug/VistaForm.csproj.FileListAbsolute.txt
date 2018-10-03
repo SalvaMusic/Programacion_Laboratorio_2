@@ -11,3 +11,16 @@ C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 S
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.exe
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.pdb
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\bin\Debug\VistaForm.exe
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\bin\Debug\VistaForm.pdb
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\bin\Debug\Entidades.dll
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\bin\Debug\Entidades.pdb
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.Form1.resources
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.exe
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaForm\obj\Debug\VistaForm.pdb

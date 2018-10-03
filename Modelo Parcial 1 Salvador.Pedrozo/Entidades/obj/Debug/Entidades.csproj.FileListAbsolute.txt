@@ -10,3 +10,9 @@ C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Ent
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\bin\Debug\Entidades.dll
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\bin\Debug\Entidades.pdb
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
+D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb
