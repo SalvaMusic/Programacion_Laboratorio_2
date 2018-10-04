@@ -1,0 +1,6 @@
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.pdb
