@@ -29,13 +29,13 @@ namespace PrestamosPersonales
             switch (this.periocidad)
             {
                 case PeriodicidadDePagos.Mensual:
-                    retorno = this.Monto + ((this.Monto * (float)0.25) / 100);
+                    retorno = this.Monto + ((this.Monto * (float)25) / 100);
                     break;
                 case PeriodicidadDePagos.Bimestral:
-                    retorno = this.Monto + ((this.Monto * (float)0.35) / 100);
+                    retorno = this.Monto + ((this.Monto * (float)35) / 100);
                     break;
                 case PeriodicidadDePagos.Trimestral:
-                    retorno = this.Monto + ((this.Monto * (float)0.40) / 100);
+                    retorno = this.Monto + ((this.Monto * (float)40) / 100);
                     break;
             }
             
@@ -68,7 +68,7 @@ namespace PrestamosPersonales
         {
             StringBuilder datos = new StringBuilder();
             
-            datos.AppendFormat("Monto: {0}\tVencimiento: {1}\tInteres: {2}", this.Monto, this.Vencimiento, this.Interes);
+            datos.AppendFormat("{0}\tDOLAR\tInteres: {1}",base.Mostrar(), this.Interes);
 
             return datos.ToString();
         }

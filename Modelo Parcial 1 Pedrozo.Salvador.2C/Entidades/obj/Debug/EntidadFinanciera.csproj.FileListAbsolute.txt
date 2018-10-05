@@ -4,3 +4,9 @@ C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFin
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.dll
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Entidades\obj\Debug\Entidades.pdb

@@ -66,7 +66,7 @@ namespace PrestamosPersonales
         {
             StringBuilder datos = new StringBuilder();
 
-            datos.AppendFormat("Monto: {0}\tVencimiento: {1}",this.Monto,this.Vencimiento);
+            datos.AppendFormat("Monto: {0}\tVencimiento: {1}",this.Monto, this.Vencimiento.ToShortDateString());
 
             return datos.ToString();
         }

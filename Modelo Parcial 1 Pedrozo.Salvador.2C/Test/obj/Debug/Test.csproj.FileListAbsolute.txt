@@ -8,3 +8,13 @@ C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Test\obj\Debug\Test.csproj.Cor
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Test\obj\Debug\Test.exe
 C:\Users\Windows\source\repos\Pedrozo.Salvador.2C\Test\obj\Debug\Test.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\bin\Debug\Test.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\bin\Debug\Test.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\bin\Debug\Test.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\obj\Debug\Test.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Pedrozo.Salvador.2C\Test\obj\Debug\Test.pdb

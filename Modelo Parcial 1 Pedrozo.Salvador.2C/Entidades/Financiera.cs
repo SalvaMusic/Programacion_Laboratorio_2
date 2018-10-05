@@ -78,28 +78,31 @@ namespace EntidadFinanciera
 
             foreach (Prestamo prestamo in this.ListaDePrestamos)
             {
-                /*switch (tipoPrestamo)
+                switch (tipoPrestamo)
                 {
                     case TipoDePrestamo.Pesos:
-                        if (prestamo is Pesos)
-                        
+                        if (prestamo is PrestamoPesos)
+                        {
                             retorno = retorno + ((PrestamoPesos)prestamo).Interes;
-                        
+                        }
                         break;
                     case TipoDePrestamo.Dolares:
-                        
+                        if (prestamo is PrestamoDolar)
+                        {
                             retorno = retorno + ((PrestamoDolar)prestamo).Interes;
-                        
+                        }                                            
                         break;
                     case TipoDePrestamo.Todos:
-                        
+                        if (prestamo is PrestamoPesos)
+                        {
                             retorno = retorno + ((PrestamoPesos)prestamo).Interes;
-                        
-                        
+                        }
+                        if (prestamo is PrestamoDolar)
+                        {
                             retorno = retorno + ((PrestamoDolar)prestamo).Interes;
-                        
+                        }
                         break;
-                }*/
+                }
             }
 
             return retorno;
@@ -133,14 +136,13 @@ namespace EntidadFinanciera
         {
             bool retorno = false;
 
-            foreach (Prestamo p in financiera.ListaDePrestamos)
-            {
-                if (p == prestamo)
+            
+                if (financiera.listaDePrestamos.Contains(prestamo))
                 {
                     retorno = true;
                 }
 
-            }
+            
             
             return retorno;
         }
