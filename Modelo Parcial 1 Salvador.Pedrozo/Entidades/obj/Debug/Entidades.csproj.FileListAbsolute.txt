@@ -16,3 +16,9 @@ D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial
 D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
 D:\Salva Laboratorio y Programacion II\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\Entidades\obj\Debug\Entidades.pdb

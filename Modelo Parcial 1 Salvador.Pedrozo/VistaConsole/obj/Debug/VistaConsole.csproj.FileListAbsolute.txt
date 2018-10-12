@@ -18,3 +18,13 @@ C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\Vis
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.csproj.CopyComplete
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.exe
 C:\Users\Windows\Documents\UTN\Programacion y Laboratorio 2\Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\bin\Debug\VistaConsole.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\bin\Debug\VistaConsole.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\bin\Debug\VistaConsole.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.csproj.CopyComplete
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Modelo Parcial 1 Salvador.Pedrozo\VistaConsole\obj\Debug\VistaConsole.pdb

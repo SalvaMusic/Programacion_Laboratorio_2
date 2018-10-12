@@ -12,6 +12,8 @@ namespace Entidades
         private short anio;
         private Divisiones division;
         private Profesor profesor;
+        
+        
 
         private Curso()
         {
