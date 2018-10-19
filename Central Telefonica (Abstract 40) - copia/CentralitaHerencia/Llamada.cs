@@ -13,6 +13,13 @@ namespace CentralitaHerencia
         protected string nroDestino;
         protected string nroOrigen;
 
+        public Llamada(float duracion, string nroDestino, string nroOrigen)
+        {
+            this.duracion = duracion;
+            this.nroOrigen = nroOrigen;
+            this.nroDestino = nroDestino;
+        }
+
         public abstract float CostoLlamada
         {
             get;
@@ -63,13 +70,6 @@ namespace CentralitaHerencia
         public static bool operator !=(Llamada llamada1, Llamada llamada2)
         {
             return !(llamada1 == llamada2);
-        }
-
-        public Llamada(float duracion, string nroDestino, string nroOrigen)
-        {
-            this.duracion = duracion;
-            this.nroOrigen = nroOrigen;
-            this.nroDestino = nroDestino;
         }
 
         public float Duracion

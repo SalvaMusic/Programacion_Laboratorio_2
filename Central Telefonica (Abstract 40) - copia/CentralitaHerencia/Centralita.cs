@@ -11,11 +11,6 @@ namespace CentralitaHerencia
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
 
-        private void AgregarLlamada(Llamada llamada)
-        {
-            this.listaDeLlamadas.Add(llamada);
-        }
-
         public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
@@ -25,6 +20,15 @@ namespace CentralitaHerencia
             : this()
         {
             this.razonSocial = nombreEmpresa;
+        }
+
+        private void AgregarLlamada(Llamada llamada)
+        {
+            if (!(llamada is null))
+            {
+                this.listaDeLlamadas.Add(llamada);
+            }
+
         }
 
         public float GananciasPorLocal
@@ -107,7 +111,7 @@ namespace CentralitaHerencia
             foreach (Llamada llamada in this.listaDeLlamadas)
             {
                 str.Append("\n");
-                str.Append(llamada.ToString());
+                str.AppendLine(llamada.ToString());
             }
             str.Append("\n\n");
             return str.ToString();
@@ -118,31 +122,32 @@ namespace CentralitaHerencia
             return this.Mostrar();
         }
 
-        public static bool operator ==(Centralita c, Llamada l)
+        public static bool operator ==(Centralita centralita, Llamada llamada)
         {
-            foreach (Llamada llamada in c.listaDeLlamadas)
+            foreach (Llamada l in centralita.listaDeLlamadas)
             {
-                if (llamada == l)
+                if (l == llamada)
                 {
                     return true;
                 }
             }
+
             return false;
         }
 
-        public static bool operator !=(Centralita c, Llamada l)
+        public static bool operator !=(Centralita centralita, Llamada llamada)
         {
-            return !(c == l);
+            return !(centralita == llamada);
         }
 
-        public static Centralita operator +(Centralita c, Llamada l)
+        public static Centralita operator +(Centralita centralita, Llamada llamada)
         {
-            if (c != l)
+            if (centralita != llamada)
             {
-                c.AgregarLlamada(l);
+                centralita.AgregarLlamada(llamada);
             }
 
-            return c;
+            return centralita;
         }
     }
 }
