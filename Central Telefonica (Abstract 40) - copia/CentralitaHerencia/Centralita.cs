@@ -16,12 +16,12 @@ namespace CentralitaHerencia
             this.listaDeLlamadas.Add(llamada);
         }
 
-        public Centralita ()
+        public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
 
-        public Centralita (string nombreEmpresa)
+        public Centralita(string nombreEmpresa)
             : this()
         {
             this.razonSocial = nombreEmpresa;
@@ -98,7 +98,7 @@ namespace CentralitaHerencia
             this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
 
-        public string Mostrar()
+        private string Mostrar()
         {
             StringBuilder str = new StringBuilder();
             str.AppendFormat("Razon Social: {0}\nGanancia Local: {1}\nGanancia Provincial: {2}\nGanancia Total: {3}",
@@ -113,5 +113,36 @@ namespace CentralitaHerencia
             return str.ToString();
         }
 
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        public static bool operator ==(Centralita c, Llamada l)
+        {
+            foreach (Llamada llamada in c.listaDeLlamadas)
+            {
+                if (llamada == l)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public static bool operator !=(Centralita c, Llamada l)
+        {
+            return !(c == l);
+        }
+
+        public static Centralita operator +(Centralita c, Llamada l)
+        {
+            if (c != l)
+            {
+                c.AgregarLlamada(l);
+            }
+
+            return c;
+        }
     }
 }

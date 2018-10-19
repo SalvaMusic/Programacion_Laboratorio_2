@@ -1,0 +1,10 @@
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\bin\Debug\Clases.dll
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\bin\Debug\Clases.pdb
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\Consola.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\Consola.csproj.CopyComplete
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
