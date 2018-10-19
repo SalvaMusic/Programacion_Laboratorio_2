@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class EquipoFutbol : Equipo
+    public interface IGuardar<T,V>
     {
-
+        bool Guardar(T objeto);
+        V Leer();
+        
     }
 }

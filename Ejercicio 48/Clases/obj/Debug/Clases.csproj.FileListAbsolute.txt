@@ -1,0 +1,6 @@
+D:\VisualStudio\Ejercicio 48\Clases\bin\Debug\Clases.dll
+D:\VisualStudio\Ejercicio 48\Clases\bin\Debug\Clases.pdb
+D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.dll
+D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.pdb

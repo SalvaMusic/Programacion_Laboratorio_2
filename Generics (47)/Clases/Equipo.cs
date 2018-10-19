@@ -9,12 +9,18 @@ namespace Clases
     public abstract class Equipo
     {
         public string nombre;
-        DateTime fechaCreacion;
+        public DateTime fechaCreacion;
+
+        public Equipo(string nombre, DateTime fechaCreacion)
+        {
+            this.nombre = nombre;
+            this.fechaCreacion = fechaCreacion;
+        }
 
         public string Ficha()
         {
             StringBuilder ficha = new StringBuilder();
-            ficha.AppendFormat("{0} fundado el {1}", this.nombre,this.fechaCreacion.ToShortTimeString());
+            ficha.AppendFormat("{0} fundado el {1}", this.nombre,this.fechaCreacion.ToShortDateString());
 
             return ficha.ToString();
         }

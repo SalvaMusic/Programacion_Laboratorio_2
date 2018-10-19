@@ -11,6 +11,19 @@ namespace Clases
         private List<T> lista;
         private string nombre;
 
+        private Torneo()
+        {
+            lista = new List<T>();
+        }
+
+        public Torneo(string nombre)
+            : this()
+        {
+            this.nombre = nombre;
+        }
+
+        
+
         public static bool operator ==(Torneo<T> torneo, T equipo)
         {
             foreach (Equipo e in torneo.lista)
@@ -43,6 +56,7 @@ namespace Clases
         {
             StringBuilder datos = new StringBuilder();
             datos.AppendFormat("Torneo {0}\n", this.nombre);
+            datos.AppendLine();
 
             foreach (Equipo equipo in lista)
             {
@@ -71,8 +85,9 @@ namespace Clases
             get
             {
                 Random rnd = new Random();
+                int index = rnd.Next(lista.Count-1);
 
-                return CalcularPartido(lista[rnd.Next(lista.Count)], lista[rnd.Next(lista.Count)]);
+                return CalcularPartido(lista[index], lista[index+1]);
             }
 
 
