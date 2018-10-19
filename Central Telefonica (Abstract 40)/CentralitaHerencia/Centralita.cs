@@ -11,20 +11,24 @@ namespace CentralitaHerencia
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
 
-        private void AgregarLlamada(Llamada llamada)
-        {
-            this.listaDeLlamadas.Add(llamada);
-        }
-
-        public Centralita ()
+        public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
 
-        public Centralita (string nombreEmpresa)
+        public Centralita(string nombreEmpresa)
             : this()
         {
             this.razonSocial = nombreEmpresa;
+        }
+
+        private void AgregarLlamada(Llamada llamada)
+        {
+            if (!(llamada is null))
+            {
+                this.listaDeLlamadas.Add(llamada);
+            }
+
         }
 
         public float GananciasPorLocal
@@ -98,7 +102,7 @@ namespace CentralitaHerencia
             this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
 
-        public string Mostrar()
+        private string Mostrar()
         {
             StringBuilder str = new StringBuilder();
             str.AppendFormat("Razon Social: {0}\nGanancia Local: {1}\nGanancia Provincial: {2}\nGanancia Total: {3}",
@@ -107,11 +111,43 @@ namespace CentralitaHerencia
             foreach (Llamada llamada in this.listaDeLlamadas)
             {
                 str.Append("\n");
-                str.Append(llamada.ToString());
+                str.AppendLine(llamada.ToString());
             }
             str.Append("\n\n");
             return str.ToString();
         }
 
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        public static bool operator ==(Centralita centralita, Llamada llamada)
+        {
+            foreach (Llamada l in centralita.listaDeLlamadas)
+            {
+                if (l == llamada)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public static bool operator !=(Centralita centralita, Llamada llamada)
+        {
+            return !(centralita == llamada);
+        }
+
+        public static Centralita operator +(Centralita centralita, Llamada llamada)
+        {
+            if (centralita != llamada)
+            {
+                centralita.AgregarLlamada(llamada);
+            }
+
+            return centralita;
+        }
     }
 }

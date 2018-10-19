@@ -20,3 +20,14 @@ D:\Salva\Central Telefonica (37)\Test\obj\Debug\Test.csproj.CoreCompileInputs.ca
 D:\Salva\Central Telefonica (37)\Test\obj\Debug\Test.csproj.CopyComplete
 D:\Salva\Central Telefonica (37)\Test\obj\Debug\Test.exe
 D:\Salva\Central Telefonica (37)\Test\obj\Debug\Test.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\obj\Debug\Test.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\obj\Debug\Test.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\Test.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\Test.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\Test.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\CentralitaHerencia.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40)\Test\obj\Debug\Test.csproj.CopyComplete

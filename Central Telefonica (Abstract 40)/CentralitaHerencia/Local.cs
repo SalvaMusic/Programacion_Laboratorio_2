@@ -48,7 +48,7 @@ namespace CentralitaHerencia
         protected override string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.AppendFormat("Duracion: {0}\tOrigen: {1}\tDestino {2}\tCosto llamada: {3}", this.Duracion, this.NroOrigen, this.NroDestino, this.CostoLlamada);
+            str.AppendFormat("Duracion: {0}\tOrigen: {1}\tDestino: {2}\nCosto llamada: {3}", this.Duracion, this.NroOrigen, this.NroDestino, this.CostoLlamada);
             
             return str.ToString();
         }

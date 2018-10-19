@@ -8,6 +8,20 @@ namespace CentralitaHerencia
 {
      public class Provincial : Llamada
     {
+        protected Franja franjaHoraria;
+
+        public Provincial(Franja miFranja, Llamada llamada)
+            : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
+        {
+
+        }
+
+        public Provincial(string origen, Franja miFranja, float duracion, string destino)
+            : base(duracion, destino, origen)
+        {
+            this.franjaHoraria = miFranja;
+        }
+
         public enum Franja
         {
             Franja_1,
@@ -23,9 +37,7 @@ namespace CentralitaHerencia
             }
 
             return false;
-        }
-
-        protected Franja franjaHoraria;
+        }           
 
         public override float CostoLlamada
         {
@@ -34,6 +46,7 @@ namespace CentralitaHerencia
                 return this.CalcularCosto();
             }
         }
+
         private float CalcularCosto()
         {
             float precio = 0;
@@ -55,25 +68,19 @@ namespace CentralitaHerencia
             return precio;
         }
 
-        public Provincial(Franja miFranja, Llamada llamada) 
-        	: this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
-        {
-            
-        }
-
-        public Provincial(string origen, Franja miFranja, float duracion, string destino) 
-        	: base(duracion, destino, origen)
-        {
-            this.franjaHoraria = miFranja;
-        }
-
         protected override string Mostrar()
         {
      
             StringBuilder str = new StringBuilder();
-            str.AppendFormat("Duracion: {0}\tOrigen: {1}\tDestino: {2}\tCosto llamada: {3}\tFranja horaria: {3}", this.Duracion, this.NroOrigen, this.NroDestino, this.CostoLlamada, this.franjaHoraria);
+            str.AppendFormat("Duracion: {0}\tOrigen: {1}\tDestino: {2}\nCosto llamada: {3}\tFranja horaria: {3}", this.Duracion, this.NroOrigen, this.NroDestino, this.CostoLlamada, this.franjaHoraria.ToString());
 
             return str.ToString();
         }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
     }
 }
