@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\source\repos\Ejercicio 30\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\bin\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\obj\Debug\Entidades.dll
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Ejercicio 36\Entidades\obj\Debug\Entidades.pdb
