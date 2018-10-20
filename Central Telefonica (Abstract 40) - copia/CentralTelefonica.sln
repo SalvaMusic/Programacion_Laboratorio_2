@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Express 15 for Windows Desktop
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{6506BA95-9DF4-4D71-B296-2AEF96C7035E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EC2B8CE2-BD25-4B99-BDD4-76DEE9C23BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotmulario", "Fotmulario\Fotmulario.csproj", "{2F03A95A-29D0-410F-94DE-FC19FCB8126D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EC2B8CE2-BD25-4B99-BDD4-76DEE9C23BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2B8CE2-BD25-4B99-BDD4-76DEE9C23BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2B8CE2-BD25-4B99-BDD4-76DEE9C23BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F03A95A-29D0-410F-94DE-FC19FCB8126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F03A95A-29D0-410F-94DE-FC19FCB8126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F03A95A-29D0-410F-94DE-FC19FCB8126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F03A95A-29D0-410F-94DE-FC19FCB8126D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
