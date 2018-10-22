@@ -1,0 +1,16 @@
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmMenu.resources
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.exe
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmLlamador.resources
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmMostrar.resources
+C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.CopyComplete
