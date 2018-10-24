@@ -1,0 +1,6 @@
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\bin\Debug\Clases.dll
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\bin\Debug\Clases.pdb
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\obj\Debug\Clases.dll
+D:\Nueva carpeta\Programacion_Laboratorio_2\Ejercicio 52\Clases\obj\Debug\Clases.pdb

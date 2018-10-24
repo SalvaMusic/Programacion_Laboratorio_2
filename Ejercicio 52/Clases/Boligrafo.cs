@@ -30,18 +30,31 @@ namespace Clases
         }
         public float UnidadesDeEscritura
         {
-            get => throw new NotImplementedException();
-            set => throw new NotImplementedException();
+            get { return this.tinta; }
+            set { this.tinta = value; }
         }
 
         public EscrituraWrapper Escribir(string texto)
         {
-            throw new NotImplementedException();
+            EscrituraWrapper escritura = new EscrituraWrapper(texto, this.Color);
+            this.UnidadesDeEscritura -= (texto.Length * (float)0.3);
+
+            return escritura;
         }
 
-        public bool Recargar(float unidades)
+        public bool Recargar(int unidades)
         {
-            throw new NotImplementedException();
+            this.UnidadesDeEscritura += unidades;
+            return true;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder str = new StringBuilder();
+
+            str.AppendLine("Boligrafo");
+            str.AppendFormat("Color {0}\tCantidad de Tinta: {1}", this.Color, this.UnidadesDeEscritura);
+            return str.ToString();
         }
     }
 }

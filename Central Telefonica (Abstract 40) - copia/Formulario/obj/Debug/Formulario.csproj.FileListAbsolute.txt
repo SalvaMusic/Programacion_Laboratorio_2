@@ -14,3 +14,19 @@ C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmLlamador.resources
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmMostrar.resources
 C:\Users\Windows\Documents\UTN\Git\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.exe.config
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.exe
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\Formulario.pdb
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.exe
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.pdb
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\bin\Debug\CentralitaHerencia.exe.config
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmLlamador.resources
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmMenu.resources
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.frmMostrar.resources
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.exe
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Formulario\obj\Debug\Formulario.pdb

@@ -8,10 +8,14 @@ namespace Clases
 {
     public interface IAcciones
     {
-        ConsoleColor Color { get; set; }
+        ConsoleColor Color
+        {
+            get;
+            set;
+        }
         float UnidadesDeEscritura { get; set; }
 
         EscrituraWrapper Escribir(string texto);
-        bool Recargar(float unidades);
+        bool Recargar(int unidades);
     }
 }

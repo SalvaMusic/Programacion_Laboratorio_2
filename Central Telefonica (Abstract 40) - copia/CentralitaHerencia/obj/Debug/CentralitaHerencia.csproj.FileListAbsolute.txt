@@ -30,3 +30,6 @@ D:\Salva\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\Cen
 D:\Salva\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 D:\Salva\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 D:\Salva\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Nueva carpeta\Programacion_Laboratorio_2\Central Telefonica (Abstract 40) - copia\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
