@@ -1,0 +1,7 @@
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.pdb

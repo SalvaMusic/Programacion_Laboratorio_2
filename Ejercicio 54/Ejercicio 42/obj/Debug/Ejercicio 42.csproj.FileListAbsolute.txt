@@ -1,0 +1,18 @@
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+D:\VisualStudio\Ejercicio 42\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\IO.exe
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\IO.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\bin\Debug\IO.exe.config
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CopyComplete

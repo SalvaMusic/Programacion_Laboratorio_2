@@ -38,7 +38,7 @@ namespace Clases
         {
             EscrituraWrapper escritura = new EscrituraWrapper(texto, this.Color);
             this.UnidadesDeEscritura -= (texto.Length * (float)0.3);
-
+            
             return escritura;
         }
 

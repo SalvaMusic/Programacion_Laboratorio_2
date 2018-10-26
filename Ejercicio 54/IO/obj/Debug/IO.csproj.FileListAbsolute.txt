@@ -1,0 +1,7 @@
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\bin\Debug\IO.exe.config
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\bin\Debug\IO.exe
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\bin\Debug\IO.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\obj\Debug\IO.exe
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\obj\Debug\IO.pdb
+D:\Mis Documentos\Programacion_Laboratorio_2\Ejercicio 54\IO\obj\Debug\IO.csprojAssemblyReference.cache
