@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Excepciones;
 
-namespace ClasesAbstractas
+namespace EntidadesAbstractas
 {
     public abstract class Persona
     {
@@ -60,7 +60,7 @@ namespace ClasesAbstractas
         {
             if (dni.ToString().Length != 8)
             {
-                throw new DniInvalidoException("DNI debe tener 8 digitos.");
+               // throw new DniInvalidoException("DNI debe tener 8 digitos.");
             }
             
             switch (nacionalidad)
@@ -71,7 +71,7 @@ namespace ClasesAbstractas
                         return dni;
                     }
                     break;
-                case ENacionalidad.Extrangero:
+                case ENacionalidad.Extranjero:
                     if (dni >= 90000000 && dni <= 99999999)
                     {
                         return dni;
@@ -88,7 +88,7 @@ namespace ClasesAbstractas
             
             if (!(int.TryParse(strDni, out intDni)))
             {
-                throw new DniInvalidoException("Caracteres invalidos.");
+                //throw new DniInvalidoException("Caracteres invalidos.");
             }
 
             return ValidarDni(nacionalidad, intDni);
@@ -154,7 +154,7 @@ namespace ClasesAbstractas
         public enum ENacionalidad
         {
             Argentino,
-            Extrangero
+            Extranjero
         }
     }
 }

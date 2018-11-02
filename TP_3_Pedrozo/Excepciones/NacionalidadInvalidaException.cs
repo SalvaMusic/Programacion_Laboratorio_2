@@ -10,6 +10,5 @@ namespace Excepciones
     {
         public NacionalidadInvalidaException() { }
         public NacionalidadInvalidaException(string message) : base(message) { }
-        public NacionalidadInvalidaException(string message, Exception inner) : base(message, inner) { }
     }
 }
