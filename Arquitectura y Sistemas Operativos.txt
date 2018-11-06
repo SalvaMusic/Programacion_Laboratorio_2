@@ -1,0 +1,26 @@
+Clase: 05/11
+Programas Putty y Xming
+ (apt "distribusion" . openssh-server "aplicacion")
+# apt-get install openssh-server (Instalar)
+
+{
+	 en caso de error en servidores, actualizar la lista de paquetes 
+
+	# cp /etc/apt/sources.list /etc/apt/sources.list.bak (backup)
+
+	# nano /etc/apt/sources.list
+	 cambiar http://ar.archive.ubuntu... por http://old-releases.ubuntu...
+
+	# apt-get update (actualizar la lista)
+	# apt-get install openssh-server (nuevamente el comando para instalar)
+}
+
+DESDE PUTTY
+{
+	# cd /etc/ssh
+	# more sshd_config (verificar que este todo ok)
+
+	# apt-get install vsftpd
+}
+
+
