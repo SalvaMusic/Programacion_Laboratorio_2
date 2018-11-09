@@ -10,7 +10,7 @@ namespace Entidades
     {
         private string nombre;
         private string apellido;
-        private int id;
+        private string id;
 
         public Persona(string nombre, string apellido)
         {
@@ -18,7 +18,7 @@ namespace Entidades
             this.Apellido = apellido;
         }
 
-        public Persona(string nombre, string apellido, int id)
+        public Persona(string nombre, string apellido, string id)
             : this(nombre,apellido)
         {
             this.ID = id;
@@ -36,7 +36,7 @@ namespace Entidades
             set { this.apellido = value; }
         }
 
-        public int ID
+        public string ID
         {
             get { return this.id; }
             set { this.id = value; }
