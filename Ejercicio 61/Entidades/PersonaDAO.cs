@@ -30,10 +30,9 @@ namespace Entidades
         public List<Persona> Leer()
         {
             List<Persona> lista = null;
-
-            "SELECT nombre FROM Personas";
+            String consulta = String.Format("SELECT ID, Nombre, Apellido FROM Persona");
             conexion.Open();
-
+            comando = new SqlCommand(consulta, conexion);
             SqlDataReader oDr = comando.ExecuteReader();
 
             while (oDr.Read())

@@ -8,3 +8,13 @@ D:\VisualStudio\Ejercicio 63\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
 D:\VisualStudio\Ejercicio 63\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Ejercicio 63\Form1\obj\Debug\Form1.exe
 D:\VisualStudio\Ejercicio 63\Form1\obj\Debug\Form1.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\bin\Debug\Form1.exe.config
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\bin\Debug\Form1.exe
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\bin\Debug\Form1.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.exe
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 63\Form1\obj\Debug\Form1.pdb

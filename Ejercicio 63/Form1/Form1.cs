@@ -15,16 +15,19 @@ namespace Form1
     public partial class Form1 : Form
     {
         Thread t;
+ 
         public Form1()
         {
             InitializeComponent();
             t = new Thread(AsignarHora);
+          
         }
 
         private void AsignarHora()
         {
-            
-                if(this.lblHora.InvokeRequired)
+            do
+            {
+                if (this.lblHora.InvokeRequired)
                 {
                     this.lblHora.BeginInvoke((MethodInvoker)delegate () { this.lblHora.Text = DateTime.Now.ToString(); });                
                 }
@@ -32,6 +35,9 @@ namespace Form1
                 {
                     this.lblHora.Text = DateTime.Now.ToString();
                 }
+                Thread.Sleep(1000);
+            } while (true);
+                
             
             
         }
