@@ -23,4 +23,5 @@ DESDE PUTTY
 	# apt-get install vsftpd
 }
 
-
+Temas para Parcial 2:
+lvm - Usuarios y permisos - SSH
