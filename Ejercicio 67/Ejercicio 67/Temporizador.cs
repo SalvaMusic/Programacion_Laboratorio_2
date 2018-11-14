@@ -5,13 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace Ejercicio_67
+namespace Fo
 {
+    public delegate void encargadoTiempo();
     sealed class Temporizador
     {
         private Thread hilo;
         private int intervalo;
+        public event encargadoTiempo EventoTiempo;
 
+        private void Corriendo()
+        {
+            while (true)
+            {
+                Thread.Sleep(intervalo);
+                EventoTiempo.Invoke();
+            }
+        }
 
         public bool Activo
         {
@@ -31,6 +41,7 @@ namespace Ejercicio_67
                 }
             }
         }
+
         public int Intervalo
         {
             get
