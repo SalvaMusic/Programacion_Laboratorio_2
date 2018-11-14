@@ -1,0 +1,10 @@
+D:\VisualStudio\Ejercicio 68\FormPersona\bin\Debug\FormPersona.exe.config
+D:\VisualStudio\Ejercicio 68\FormPersona\bin\Debug\FormPersona.exe
+D:\VisualStudio\Ejercicio 68\FormPersona\bin\Debug\FormPersona.pdb
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\FormPersona.Form1.resources
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\FormPersona.Properties.Resources.resources
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\FormPersona.exe
+D:\VisualStudio\Ejercicio 68\FormPersona\obj\Debug\FormPersona.pdb
