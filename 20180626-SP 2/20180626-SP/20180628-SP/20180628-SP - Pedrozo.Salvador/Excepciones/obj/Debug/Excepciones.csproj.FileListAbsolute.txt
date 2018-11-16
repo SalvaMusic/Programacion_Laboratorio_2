@@ -1,0 +1,6 @@
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\bin\Debug\Excepciones.dll
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\bin\Debug\Excepciones.pdb
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\obj\Debug\Excepciones.dll
+D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\Excepciones\obj\Debug\Excepciones.pdb
