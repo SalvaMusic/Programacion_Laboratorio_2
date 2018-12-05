@@ -1,0 +1,9 @@
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Archivos.dll
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Archivos.pdb
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Entidades.dll
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Entidades.pdb
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.dll
+D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.pdb
