@@ -114,7 +114,7 @@ namespace _20180628_SP.v1
 
             // EVENTO
             votacion.EventoVotoEfectuado += ManejadorVoto;
-            
+
             // THREAD
             hilo = new Thread(votacion.Simular);
             hilo.Start();

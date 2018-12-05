@@ -15,3 +15,19 @@ D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\201806
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.Pedrozo.Salvador.csproj.CopyComplete
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\Entidades.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\Excepciones.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\Entidades.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\bin\Debug\Excepciones.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.Pedrozo.Salvador.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.Pedrozo.Salvador.csproj.GenerateResource.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.Pedrozo.Salvador.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.Pedrozo.Salvador.csproj.CopyComplete
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\20180626-SP 2\20180626-SP\20180628-SP\20180628-SP - Pedrozo.Salvador\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
