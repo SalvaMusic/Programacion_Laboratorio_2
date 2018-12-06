@@ -7,3 +7,12 @@ D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\
 D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.dll
 D:\Nueva carpeta\20181122-SP\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Entidades.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\bin\Debug\Entidades.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C\20181122-SP\Salvador.Pedrozo.2C\Archivos\obj\Debug\Archivos.pdb

@@ -13,7 +13,7 @@ namespace Archivos
     /// <summary>
     /// Clase para Trabajar con base de datos
     /// </summary>
-    public class Sql : IArchivo<Patente>
+    public class Sql : IArchivo<Queue<Patente>>
     {
         #region Atributos
         static SqlConnection conexion;
@@ -32,17 +32,31 @@ namespace Archivos
 
         #region Métodos
         /// <summary>
-        /// Guardará objetos del tipo patente.
+        /// Guardará objetos del tipo Cola de patentes.
         /// </summary>
         /// <param name="archivo">Nombre del archivo donde se guardará</param>
-        /// <param name="datos">Patente que se guardará</param>
-        public void Guardar(string archivo, Patente datos)
+        /// <param name="datos">Cola de patentes que se guardará</param>
+        public void Guardar(string archivo, Queue<Patente> datos)
         {
-            String consulta = String.Format("INSERT INTO Patentes (patente, tipo) VALUES ('{0}', '{1}')", datos.CodigoPatente, datos.TipoCodigo);
-            conexion.Open();
-            comando.CommandText = consulta;
-            comando.ExecuteNonQuery();
-            conexion.Close();
+            try
+            {
+                foreach (Patente p in datos)
+                {
+                    String consulta = String.Format("INSERT INTO Patentes (patente, tipo) VALUES ('{0}', '{1}')", p.CodigoPatente, p.TipoCodigo.ToString());
+                    conexion.Open();
+                    comando.CommandText = consulta;
+                    comando.ExecuteNonQuery();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                conexion.Close();
+            }
+
         }
 
         /// <summary>
@@ -50,14 +64,37 @@ namespace Archivos
         /// </summary>
         /// <param name="archivo">Nombre del archivo que se leerá</param>
         /// <param name="datos">Patente que leerá</param>
-        public void Leer(string archivo, out Patente datos)
+        public void Leer(string archivo, out Queue<Patente> datos)
         {
-            String consulta = String.Format("SELECT patente, tipo FROM Patentes");
-            conexion.Open();
-            comando.CommandText = consulta;
-            SqlDataReader oDr = comando.ExecuteReader();
-           
-            datos = new Patente(oDr["patente"].ToString(), (Patente.Tipo)oDr["tipo"]);
+            try
+            {
+                String consulta = String.Format("SELECT patente, tipo FROM Patentes");
+                conexion.Open();
+                comando.CommandText = consulta;
+                SqlDataReader oDr = comando.ExecuteReader();
+                Queue<Patente> patenesAux = new Queue<Patente>();
+                while (oDr.Read())
+                {
+                    if (oDr["tipo"].ToString() == Patente.Tipo.Mercosur.ToString())
+                    {
+                        patenesAux.Enqueue(new Patente(oDr["patente"].ToString(), Patente.Tipo.Mercosur));
+                    }
+                    else
+                    {
+                        patenesAux.Enqueue(new Patente(oDr["patente"].ToString(), Patente.Tipo.Vieja));
+                    }
+                }
+                conexion.Close();
+                datos = patenesAux;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                conexion.Close();
+            }
         } 
         #endregion
     }

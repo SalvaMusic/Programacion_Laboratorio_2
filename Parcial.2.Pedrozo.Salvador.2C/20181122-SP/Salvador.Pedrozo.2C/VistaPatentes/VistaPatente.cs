@@ -36,9 +36,8 @@ namespace Patentes
                     Random r = new Random();
 
                     // Llamar al hilo principal
-                    MostrarPatente mostrar = new MostrarPatente(MostrarPatente);
-                    lblPatenteNro.Invoke(mostrar);
-                    mostrar(patente);
+                    MostrarPatente mostrar = new MostrarPatente(MostrarPatente);    
+                    lblPatenteNro.Invoke(mostrar, new object [] {patente});
                     
                     // ALUMNO
 
@@ -48,7 +47,10 @@ namespace Patentes
                     finExposicion(this);
                     // ALUMNO
                 }
-                catch (Exception) { }
+                catch (Exception ex)
+                {
+                    throw ex;
+                }
             }
             else
             {

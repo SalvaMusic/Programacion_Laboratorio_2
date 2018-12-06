@@ -14,7 +14,7 @@ namespace Archivos
         public void Guardar(string archivo, Queue<Patente> datos)
         {
             StreamWriter sw = new StreamWriter(archivo, true);
-            foreach ( Patente p in datos)
+            foreach (Patente p in datos)
             {
                 sw.WriteLine(p.ToString());
             }

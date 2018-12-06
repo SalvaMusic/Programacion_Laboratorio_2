@@ -61,8 +61,7 @@ namespace _20181122_SP
         private void btnSql_Click(object sender, EventArgs e)
         {
             Sql sql = new Sql();
-            Patente patente = new Patente();
-            sql.Leer("Patentes.bak", out patente);
+            sql.Leer("Patentes.bak", out cola);
             this.IniciarSimulacion();
         }
 
