@@ -4,3 +4,9 @@ D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.csprojAssemblyReference.cac
 D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.dll
 D:\VisualStudio\Ejercicio 48\Clases\obj\Debug\Clases.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\bin\Debug\Clases.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\bin\Debug\Clases.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\obj\Debug\Clases.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\Clases\obj\Debug\Clases.pdb

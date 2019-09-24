@@ -8,3 +8,4 @@ D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\Consola.csproj.CoreCompileInp
 D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\Consola.csproj.CopyComplete
 D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\VisualStudio\Ejercicio 48\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Ejercicio 48\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

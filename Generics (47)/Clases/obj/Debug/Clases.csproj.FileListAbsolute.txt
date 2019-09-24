@@ -4,3 +4,9 @@ D:\Nueva carpeta (2)\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\C
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.dll
 D:\Nueva carpeta (2)\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\bin\Debug\Clases.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\bin\Debug\Clases.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Generics (47)\Clases\obj\Debug\Clases.pdb
