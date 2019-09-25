@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entidades
 {
     public enum TDocum { DNI, CUIT }
-    public enum CIva { Monotrivutista, ResponsableInscripto }
+    public enum CIva { Monotrivutista, IVA_Responsable_Inscripto, IVA_No_Responsable }
 
     public class Cliente
     {
