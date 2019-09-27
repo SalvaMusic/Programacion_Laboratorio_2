@@ -37,64 +37,15 @@ namespace Entidades
         public override string ToString()
         {
             StringBuilder str = new StringBuilder();
-            string porc = "";
-            str.AppendFormat("Nro Pedido: {0}\n", NroPedido);
-            str.AppendFormat("CODIGO \t\tNOMBRE \t\tPRECIO \t%IVA \tCANTIDAD\tPRECIO VENTA \tPRECIO NETO \tMONTO IVA\n");
-            foreach (Producto producto in this.detalles)
-            {
-                switch (Cliente.CondIva)
-                {
-                    case CIva.IVA_No_Responsable:
-                        porc = "70%";
-                        break;
-                    case CIva.IVA_Responsable_Inscripto:
-                        porc = "10.05%";
-                        break;
-                    case CIva.Monotrivutista:
-                        porc = "21%";
-                        break;
-                }
-                str.AppendFormat("\n{0}\t{1}", producto.ToString(), porc);
-            }
+            
             return str.ToString();
         }
-
+        
         public float TotalBrutoPedido
         {
             get { return calcularBrutoPedido(); }
-        }
-
-        public float PorcIvaTotal
-        {
-            get { return calcularPorcIvaTotal(); }
-        }
-
-        public float TotalNetoPedido
-        {
-            get { return calcularTotal(); }
-        }
-
-        private float calcularTotal()
-        {
-             return this.TotalBrutoPedido + this.PorcIvaTotal;
-        }
-
-        private float calcularPorcIvaTotal()
-        {
-            float bruto = this.TotalBrutoPedido;
-            float porc = bruto * ((float)21 / 100);
-            switch (Cliente.CondIva)
-            {
-                case CIva.IVA_No_Responsable:
-                    porc =  bruto * ((float)70 / 100);
-                    break;
-                case CIva.IVA_Responsable_Inscripto:
-                    porc = bruto * ((float)10.05 / 100);
-                    break;
-            }
-            return porc;
-        }
-
+        }     
+        
         private float calcularBrutoPedido()
         {
             float bruto = 0;

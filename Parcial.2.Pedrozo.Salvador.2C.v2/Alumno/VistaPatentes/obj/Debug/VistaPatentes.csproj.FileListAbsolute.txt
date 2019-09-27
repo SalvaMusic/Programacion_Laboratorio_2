@@ -33,3 +33,16 @@ C:\Users\xxxxx\Downloads\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatente
 C:\Users\xxxxx\Downloads\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
 C:\Users\xxxxx\Downloads\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
 C:\Users\xxxxx\Downloads\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+C:\Users\xxxxx\Documents\Salva\Programacion_Laboratorio_2\Parcial.2.Pedrozo.Salvador.2C.v2\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb

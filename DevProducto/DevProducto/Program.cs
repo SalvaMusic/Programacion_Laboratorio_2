@@ -11,7 +11,7 @@ namespace DevProducto
     {
         static void Main(string[] args)
         {
-            Cliente c1 = new Cliente(001, "Estadus Unidos 1221", CIva.IVA_Responsable_Inscripto, TDocum.DNI, "39708318");
+            Cliente c1 = new Cliente("Estados Unidos 1221", CIva.IVA_Responsable_Inscripto, TDocum.DNI, "39708318");
             List<Producto> productos1 = new List<Producto>();
             productos1.Add(new Producto("2526", "Cuerdas de Guitarra", 150));
             productos1.Add(new Producto("2527", "Puas de Guitarra", 50));
@@ -26,7 +26,7 @@ namespace DevProducto
 
             Console.Write("\n\n\n");
 
-            Cliente c2 = new Cliente(002, "Belgrano 1005", CIva.Monotrivutista, TDocum.DNI, "XX39708319");
+            Cliente c2 = new Cliente("Belgrano 1005", CIva.Monotrivutista, TDocum.DNI, "XX39708319");
             List<Producto> productos2 = new List<Producto>();
             productos2.Add(new Producto("8526", "Cuerdas de Bajo....", 600));
             productos2.Add(new Producto("8527", "Puas de Bajo.......", 100));
@@ -41,7 +41,7 @@ namespace DevProducto
 
             Console.Write("\n\n\n");
 
-            Cliente c3 = new Cliente(003, "Pedro Agrelo 2050", CIva.IVA_No_Responsable, TDocum.CUIT, "285439708319");
+            Cliente c3 = new Cliente("Pedro Agrelo 2050", CIva.IVA_No_Responsable, TDocum.CUIT, "285439708319");
             List<Producto> productos3 = new List<Producto>();
             productos3.Add(new Producto("8526", "Cuerdas de Ukelele", 100));
             productos3.Add(new Producto("8527", "Puas de Ukelele....", 30));

@@ -11,15 +11,15 @@ namespace Entidades
 
     public class Cliente
     {
-        protected int nroCliente;
+        protected static int nroCliente;
         protected string domicilio;
         protected CIva condIva;
         protected TDocum tipoDocu;
         protected string nroDocu;
 
-        public Cliente(int nroCliente, string domicilio, CIva condIva, TDocum tipoDocu, string nroDocu)
+        public Cliente(string domicilio, CIva condIva, TDocum tipoDocu, string nroDocu)
         {
-            this.nroCliente = nroCliente;
+            Cliente.nroCliente++;
             this.domicilio = domicilio;
             this.condIva = condIva;
             this.tipoDocu = tipoDocu;

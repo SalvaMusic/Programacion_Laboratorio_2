@@ -38,7 +38,7 @@ namespace Entidades
         {
             StringBuilder str = new StringBuilder();
 
-            str.AppendFormat("{0}\t{1}\t${2}", Codigo, Nombre, Precio);
+            str.AppendFormat("{0,6}\t{1,20}\t${2,10:n2}", Codigo, Nombre, Precio);
 
             return str.ToString();
         }
